@@ -30,3 +30,10 @@ Exécution du projet:
 
 npm install
 npm start
+
+Auteur:
+
+Amine EL MAMOUN
+EMSI 
+4IIR 
+Année universitaire : 2025/2026
